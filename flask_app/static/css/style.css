@@ -1,0 +1,33 @@
+a:link {
+    color: blue;
+}
+
+a:visited {
+    color: blue;
+}
+
+a:hover {
+    color: hotpink;
+}
+
+.index-table{
+    margin: 20px auto;
+    }
+
+.form-entry{
+    margin: 10px;
+    display: inline-flex;
+    flex-direction: column;
+    height: 400px;
+}
+
+.btn btn-primary{
+    color: pink;
+    background-color: red;
+}
+table, th, td {
+    border: 1px solid black;
+}
+table {
+    border-collapse: collapse;
+}
